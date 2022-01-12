@@ -1,1 +1,0 @@
-Cand se descarca se ruleaza in consola: npm install
